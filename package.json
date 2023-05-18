@@ -1,0 +1,25 @@
+{
+  "name": "com.takayoshihagiwara.vrquestionnaire",
+  "version": "0.0.1",
+  "displayName": "VR Questionnaire",
+  "description": "This is a tool for answering questionanire in a VR space",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "keywords": [
+    "psychophysics",
+    "internal-tool",
+    "questionnaire",
+    "Likert scale",
+    "Visual analog scale"
+  ],
+  "author": {
+    "name": "Takayoshi Hagiwara"
+  },
+  "samples": [
+    {
+        "displayName": "Sample Scene",
+        "description": "Sample Scene",
+        "path": "Samples~/ToolSample"
+    }
+  ]
+}
