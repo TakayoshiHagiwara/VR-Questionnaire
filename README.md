@@ -12,6 +12,7 @@
 - Unity 2021 or Later
 
 # Installation
+- 一部のサンプルにOVRInputを使用しているため、事前にMeta XR Utilitiesを導入しておいてください
 - Unity Package Managerを利用した導入方法
     1. Window -> Package Managerを開きます
     1. 左上のプラスアイコンをクリックし、「Add package from git URL...」をクリックします
